@@ -14,7 +14,7 @@ document.querySelector('button').addEventListener('click', ()=>{
     result.innerText =`${parseInt((result1h - result2h)/45)}` + ' Aulas';
 
     H2.value = " ";
-    H1.value = " "
+    H1.value = " ";
 })
 
 
